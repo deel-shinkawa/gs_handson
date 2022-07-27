@@ -1,0 +1,7 @@
+Flask==2.0.3
+Flask-Bootstrap==3.3.7.1
+Flask-Cors==3.0.10
+google-auth==1.35.0
+google-auth-oauthlib==0.4.6
+google-cloud-language==2.4.1
+oauthlib==3.1.1
